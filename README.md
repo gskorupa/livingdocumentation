@@ -14,8 +14,8 @@ LivingDocDoclet is a Javadoc Doclet inspired by concepts from the "Living Docume
 
 ### Doclet options
 
--file <file>
+**-file \<file>**
   
     Sets the output file location,
 
--type <doctype>
+**-type \<doctype>**
