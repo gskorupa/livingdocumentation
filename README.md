@@ -1,6 +1,6 @@
 # Living Documentation Doclet
 
-LivingDocDoclet is a Javadoc Doclet inspired by concepts from the "Living Documentation" book by Cyrille Martraire.
+LivingDocDoclet is a Javadoc Doclet inspired by concepts from the "Living Documentation" book by Cyrille Martraire. It can be used to create architectural documentation with particular reference to Hexagonal Architecture and documentation of projects compatible with Domain Driven Design.
 
 ## Introduction
 
