@@ -2,7 +2,7 @@
  * Copyright (C) Grzegorz Skorupa 2018.
  * Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
  */
-package pl.com.experiot.livingdocumentation.design;
+package org.cricketmsf.livingdocumentation.design;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

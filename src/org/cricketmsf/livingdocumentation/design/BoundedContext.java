@@ -2,7 +2,7 @@
  * Copyright (C) Grzegorz Skorupa 2018.
  * Distributed under the MIT License (license terms are at http://opensource.org/licenses/MIT).
  */
-package pl.com.experiot.livingdocumentation.design;
+package org.cricketmsf.livingdocumentation.design;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -15,5 +15,6 @@ import java.lang.annotation.Target;
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
-public @interface Entity {
+public @interface BoundedContext {
+    public String name() default "";
 }
