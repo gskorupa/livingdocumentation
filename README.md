@@ -4,7 +4,11 @@ LivingDocDoclet is a Javadoc Doclet inspired by concepts from the "Living Docume
 
 ## Introduction
 
+...
+
 ## Documenting code
+
+...
 
 ## Usage
 
